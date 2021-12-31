@@ -5,5 +5,5 @@ A C++ program that interacts with TGA file formats, showcasing different types o
 ![](images/TGARM1.png)
 ![](images/TGARM2.png)
 ![](images/TGARM3.png)
-1[](images/TGARM5.png)
+![](images/TGARM5.png)
 
